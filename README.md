@@ -2,7 +2,7 @@
 
 ¿Qué placa utilizo para mi proyecto y cómo la conecto?
 
-![alt text](https://imgur.com/y4n2Utq)
+![alt text](https://i.imgur.com/y4n2Utq.jpg)
 
 # ¿Cómo la conecto para programar?
 
