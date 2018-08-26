@@ -7,7 +7,9 @@
 # ¿Cómo conecto las placas?
 # ESP01
 ![alt text](https://i.imgur.com/u25oBAK.png)
+
 ![alt text](https://i.imgur.com/Z1kxCa7.png)
+
 ![alt text](https://i.imgur.com/9hKXOYV.png)
 
 # ESP05
@@ -15,6 +17,7 @@
 
 # ESP12
 ![alt text](https://i.imgur.com/hei1zWQ.png)
+
 ![alt text](https://i.imgur.com/LdJUw96.png)
 
 
